@@ -5,4 +5,4 @@ def model1():
 
 def model2():
     print("adding code for model2")
-print("Model2 is the best")
+
